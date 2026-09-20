@@ -15341,7 +15341,7 @@
 	    "Golden Overlord Scott": {
         "Type": "Aoe",
         "Image": "rbxassetid://81152800664288",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 35000,
         "Max": 1,
         "Passive": {"Name": "GOLDEN", "Description": "Hits Enimes Aoe."},
@@ -15381,7 +15381,7 @@
 		"Nightmare A7": {
         "Type": "Aoe",
         "Image": "rbxassetid://133504948553667",
-        "Rarity": "Secret",
+        "Rarity": "Exclusive",
         "PlacePrice": 35000,
         "Max": 3,
         "Passive": {"Name": "GOLDEN", "Description": "Hits Enimes Aoe."},
