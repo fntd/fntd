@@ -15378,6 +15378,46 @@
             }
         ]
     },
+		"Nightmare A7": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://133504948553667",
+        "Rarity": "Secret",
+        "PlacePrice": 35000,
+        "Max": 3,
+        "Passive": {"Name": "GOLDEN", "Description": "Hits Enimes Aoe."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 37500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 50000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 60000,
+                "Range": 40,
+                "Damage": 62500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 70000,
+                "Range": 45,
+                "Damage": 75000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "The Glitched": {
         "Type": "Nuke",
         "Image": "rbxassetid://103032877502508",
