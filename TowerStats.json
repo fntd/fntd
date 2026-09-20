@@ -9353,7 +9353,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 6500,
+                "Damage": 25000,
                 "Cooldown": 0.5,
                 "Slow": 0.4,
                 "SlowTime": 2,
