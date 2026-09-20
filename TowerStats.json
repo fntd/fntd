@@ -12380,7 +12380,7 @@
             {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 30000,
+                "Damage": 60000,
                 "Cooldown": 2,
                 "Slow": 0.35,
                 "SlowTime": 3,
