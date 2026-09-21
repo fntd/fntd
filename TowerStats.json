@@ -15418,6 +15418,46 @@
             }
         ]
     },
+		"Gamer Pirate Withered Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://134544206617619",
+        "Rarity": "Exclusive",
+        "PlacePrice": 8500,
+        "Max": 4,
+        "Passive": {"Name": "GOLDEN", "Description": "Hits Enimes Aoe."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 10000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 35,
+                "Damage": 12000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 15000,
+                "Range": 40,
+                "Damage": 15000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 20000,
+                "Range": 45,
+                "Damage": 20000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "The Glitched": {
         "Type": "Nuke",
         "Image": "rbxassetid://103032877502508",
