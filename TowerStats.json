@@ -385,7 +385,7 @@
             }
         ]
     },
-        "FazCade": {
+    "FazCade": {
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Epic",
@@ -1089,7 +1089,7 @@
             }
         ]
     },
-        "Tarnished Spring Bonnie": {
+    "Tarnished Spring Bonnie": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://18777411515",
         "Rarity": "Secret",
