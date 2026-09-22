@@ -15383,7 +15383,7 @@
         "Image": "rbxassetid://133504948553667",
         "Rarity": "Exclusive",
         "PlacePrice": 35000,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "GOLDEN", "Description": "Hits Enimes Aoe."},
         "hitboxOffset": {
             "X": 0,
