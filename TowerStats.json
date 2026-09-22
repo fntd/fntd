@@ -843,25 +843,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 10,
                 "Cooldown": 0.5
             },
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 125,
+                "Damage": 12,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 150,
+                "Damage": 15,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 175,
+                "Damage": 17,
                 "Cooldown": 0.5
             }
         ]
@@ -883,7 +883,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 400,
+                "Damage": 45,
                 "Cooldown": 0.5,
                 "Wither": 1.25,
                 "ShinyWither": 1.25,
@@ -892,7 +892,7 @@
             {
                 "Price": 800,
                 "Range": 23,
-                "Damage": 450,
+                "Damage": 50,
                 "Cooldown": 0.4,
                 "Wither": 1.25,
                 "ShinyWither": 1.25,
@@ -901,7 +901,7 @@
             {
                 "Price": 1400,
                 "Range": 25,
-                "Damage": 500,
+                "Damage": 55,
                 "Cooldown": 0.3,
                 "Wither": 1.25,
                 "ShinyWither": 1.25,
@@ -910,7 +910,7 @@
             {
                 "Price": 2000,
                 "Range": 27,
-                "Damage": 550,
+                "Damage": 75,
                 "Cooldown": 0.3,
                 "Wither": 1.25,
                 "ShinyWither": 1.25,
@@ -961,7 +961,7 @@
         "Type": "AOE + Wither",
         "Image": "rbxassetid://18151573285",
         "Rarity": "Nightmare",
-        "PlacePrice": 71000,
+        "PlacePrice": 12500,
         "Max": 2,
         "Passive": {"Name": "Blight", "Description": "Enemies in range take 20% more damage"},
         "hitboxOffset": {
@@ -973,7 +973,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1500,
+                "Damage": 15,
                 "Cooldown": 0.25,
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
@@ -982,7 +982,7 @@
             {
                 "Price": 75000,
                 "Range": 28,
-                "Damage": 1750,
+                "Damage": 17,
                 "Cooldown": 0.25,
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
@@ -991,7 +991,7 @@
             {
                 "Price": 80000,
                 "Range": 30,
-                "Damage": 2000,
+                "Damage": 20,
                 "Cooldown": 0.25,
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
@@ -1000,11 +1000,72 @@
             {
                 "Price": 85000,
                 "Range": 33,
-                "Damage": 2250,
+                "Damage": 22,
                 "Cooldown": 0.25,
                 "Wither": 1.2,
                 "ShinyWither": 1.2,
                 "WitherTime": 1
+            }
+        ]
+    },
+        "Tarnished Spring Bonnie": {
+        "Type": "Cone AOE + Passive",
+        "Image": "rbxassetid://18777411515",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Tarnish", "Description": "Enemies hit by Tarnished Spring Bonnie's attack take 10% more damage for 2 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 50,
+                "Cooldown": 0.5,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            },
+            {
+                "Price": 700,
+                "Range": 24,
+                "Damage": 75,
+                "Cooldown": 0.5,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            },
+            {
+                "Price": 900,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 0.4,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 26,
+                "Damage": 125,
+                "Cooldown": 0.4,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 150,
+                "Cooldown": 0.3,
+                "Wither": 1.1,
+                "ShinyWither": 1.1,
+                "WitherTime": 2
             }
         ]
     },
