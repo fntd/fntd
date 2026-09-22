@@ -15418,6 +15418,46 @@
             }
         ]
     },
+		"Party Lolbit": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://123611805192712",
+        "Rarity": "Exclusive",
+        "PlacePrice": 500,
+        "Max": 3,
+        "Passive": {"Name": "GOLDEN", "Description": "Hits Enimes Aoe."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 20,
+                "Damage": 5250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 22,
+                "Damage": 6250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 7500,
+                "Cooldown": 1
+            }
+        ]
+    },
 		"Gamer Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://134544206617619",
