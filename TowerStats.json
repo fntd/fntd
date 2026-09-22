@@ -1150,6 +1150,44 @@
             }
         ]
     },
+       "Phantom Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://18356356760",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 20000,
+                "Range": 17,
+                "Damage": 200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 25000,
+                "Range": 19,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 21,
+                "Damage": 550,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Baker Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18161347460",
