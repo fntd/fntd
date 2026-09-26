@@ -961,51 +961,6 @@
             }
         ]
     },
-        "Jackpot Freddy": {
-        "Type": "Splash Farm",
-        "Image": "rbxassetid://108467505723572",
-        "Rarity": "Secret",
-        "PlacePrice": 1,
-        "Offset": 0,
-        "Max": 20,
-        "NoEnemyAttack": true,
-        "Passive": {"Name": "Gold Rush", "Description": "This unit generates +50% more income per shot. All other units in range gain +25% more income."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 18,
-                "Damage": 360,
-                "Cooldown": 0.75,
-                "MoneyBoost": 1.25
-            },
-            {
-                "Price": 600,
-                "Range": 20,
-                "Damage": 400,
-                "Cooldown": 0.6,
-                "MoneyBoost": 1.25
-            },
-            {
-                "Price": 750,
-                "Range": 22,
-                "Damage": 450,
-                "Cooldown": 0.6,
-                "MoneyBoost": 1.25
-            },
-            {
-                "Price": 1250,
-                "Range": 25,
-                "Damage": 500,
-                "Cooldown": 0.5,
-                "MoneyBoost": 1.25
-            }
-        ]
-    },
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
