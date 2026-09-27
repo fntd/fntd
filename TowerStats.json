@@ -38,6 +38,171 @@
             }
         ]
     },
+        "Animdude": {
+        "Type": "Nuke + Passive",
+        "Image": "rbxassetid://77112261441145",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
+        "Offset": 1.25,
+        "Max": 1,
+        "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice and stun enemies for 0.5 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 5000,
+                "Cooldown": 2.4,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 6500,
+                "Cooldown": 2.3,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 34,
+                "Damage": 8000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 40000,
+                "Range": 37,
+                "Damage": 12000,
+                "Cooldown": 2.1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 80000,
+                "Range": 40,
+                "Damage": 15000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+
+    "Fortified Endo 02": {
+        "Type": "Cone AOE + Passive",
+        "Image": "rbxassetid://86634335404738",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 4,
+        "Passive": {"Name": "Infected Circuit", "Description": "Attacks apply 15% Anti Bleed and 7.5 Wither for 1 second"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 700,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 900,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.2,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            }
+        ]
+    },
+
+    "Bomber Boy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://105906895649413",
+        "Rarity": "Secret",
+        "PlacePrice": 56000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 32,
+                "Damage": 5000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 58000,
+                "Range": 35,
+                "Damage": 7000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 60000,
+                "Range": 38,
+                "Damage": 9000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 62000,
+                "Range": 42,
+                "Damage": 11000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
         "Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://18864498819",
