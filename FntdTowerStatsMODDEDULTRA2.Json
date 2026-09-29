@@ -5335,6 +5335,62 @@
             }
         ]
     },
+   "MXES": {
+        "Type": "AOE Slow + Poison",
+        "Image": "rbxassetid://81772315176647",
+        "Rarity": "Apex",
+        "PlacePrice": 22222,
+        "Offset": 1,
+        "Max": 1,
+        "Passive": {"Name": "Corruption", "Description": "Slows enemies by 65% and deals +25% damage in poison. This unit deals 2x damage when enemies are within 10 range of the unit."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 30000,
+                "Cooldown": 2,
+                "Slow": 0.35,
+                "SlowTime": 3,
+                "Burn": 15000,
+                "BurnTime": 1
+            },
+            {
+                "Price": 33333,
+                "Range": 30,
+                "Damage": 38000,
+                "Cooldown": 2,
+                "Slow": 0.35,
+                "SlowTime": 3,
+                "Burn": 15000,
+                "BurnTime": 1
+            },
+            {
+                "Price": 44444,
+                "Range": 33,
+                "Damage": 46000,
+                "Cooldown": 2,
+                "Slow": 0.35,
+                "SlowTime": 3,
+                "Burn": 15000,
+                "BurnTime": 1
+            },
+            {
+                "Price": 55555,
+                "Range": 40,
+                "Damage": 60000,
+                "Cooldown": 2,
+                "Slow": 0.35,
+                "SlowTime": 3,
+                "Burn": 15000,
+                "BurnTime": 1
+            }
+        ]
+    },
     "Burntrap": {
         "Type": "Splash + Anti Regen",
         "Image": "rbxassetid://120446334712341",
