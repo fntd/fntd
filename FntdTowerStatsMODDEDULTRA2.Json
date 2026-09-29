@@ -5370,6 +5370,53 @@
             }
         ]
     },
+    "XOR": {
+        "Type": "Cone AOE + Poison",
+        "Image": "rbxassetid://127369273439025",
+        "Rarity": "Nightmare",
+        "PlacePrice": 19000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 22000,
+                "Cooldown": 4,
+                "Burn": 40,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 22000,
+                "Range": 27,
+                "Damage": 26000,
+                "Cooldown": 4,
+                "Burn": 40,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 27000,
+                "Range": 29,
+                "Damage": 37000,
+                "Cooldown": 4,
+                "Burn": 40,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 32000,
+                "Range": 30,
+                "Damage": 42000,
+                "Cooldown": 4,
+                "Burn": 40,
+                "BurnTime": 1.2
+            }
+        ]
+    },
     "Nightmare Bot": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://122930850408296",
