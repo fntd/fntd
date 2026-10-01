@@ -977,7 +977,7 @@
         "Type": "AOE Burn + Stun",
         "Image": "rbxassetid://71876084991999",
         "Rarity": "Nightmare",
-        "PlacePrice": 51000,
+        "PlacePrice": 5100,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Frightful Terror", "Description": "Burns enemies at 25% over 1 second and stuns enemies for 0.5 seconds"},
@@ -998,7 +998,7 @@
                 "BurnTime": 1
             },
             {
-                "Price": 25000,
+                "Price": 2500,
                 "Range": 32,
                 "Damage": 4400,
                 "Cooldown": 2.8,
@@ -1008,7 +1008,7 @@
                 "BurnTime": 1
             },
             {
-                "Price": 30000,
+                "Price": 3000,
                 "Range": 35,
                 "Damage": 5000,
                 "Cooldown": 2.8,
@@ -1018,7 +1018,7 @@
                 "BurnTime": 1
             },
             {
-                "Price": 40000,
+                "Price": 4000,
                 "Range": 38,
                 "Damage": 5600,
                 "Cooldown": 2.8,
@@ -1243,7 +1243,7 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 30000,
+                "Damage": 40000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
@@ -1255,7 +1255,7 @@
             {
                 "Price": 30000,
                 "Range": 40,
-                "Damage": 35000,
+                "Damage": 45000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
@@ -1267,7 +1267,7 @@
             {
                 "Price": 40000,
                 "Range": 45,
-                "Damage": 40000,
+                "Damage": 50000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
@@ -1279,7 +1279,7 @@
             {
                 "Price": 50000,
                 "Range": 50,
-                "Damage": 45000,
+                "Damage": 60000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 50000,
