@@ -990,41 +990,41 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 38000,
+                "Damage": 3800,
                 "Cooldown": 2.8,
                 "Slow": 0,
                 "SlowTime": 0.5,
-                "Burn": 9500,
+                "Burn": 950,
                 "BurnTime": 1
             },
             {
                 "Price": 25000,
                 "Range": 32,
-                "Damage": 44000,
+                "Damage": 4400,
                 "Cooldown": 2.8,
                 "Slow": 0,
                 "SlowTime": 0.5,
-                "Burn": 11000,
+                "Burn": 1100,
                 "BurnTime": 1
             },
             {
                 "Price": 30000,
                 "Range": 35,
-                "Damage": 50000,
+                "Damage": 5000,
                 "Cooldown": 2.8,
                 "Slow": 0,
                 "SlowTime": 0.5,
-                "Burn": 12500,
+                "Burn": 1250,
                 "BurnTime": 1
             },
             {
                 "Price": 40000,
                 "Range": 38,
-                "Damage": 56000,
+                "Damage": 5600,
                 "Cooldown": 2.8,
                 "Slow": 0,
                 "SlowTime": 0.5,
-                "Burn": 14000,
+                "Burn": 1400,
                 "BurnTime": 1
             }
         ]
@@ -1243,7 +1243,7 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 3000,
+                "Damage": 30000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
@@ -1255,7 +1255,7 @@
             {
                 "Price": 30000,
                 "Range": 40,
-                "Damage": 3500,
+                "Damage": 35000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
@@ -1267,7 +1267,7 @@
             {
                 "Price": 40000,
                 "Range": 45,
-                "Damage": 4000,
+                "Damage": 40000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 500,
@@ -1279,7 +1279,7 @@
             {
                 "Price": 50000,
                 "Range": 50,
-                "Damage": 4500,
+                "Damage": 45000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 50000,
