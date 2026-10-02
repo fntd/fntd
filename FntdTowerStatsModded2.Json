@@ -38,6 +38,58 @@
             }
         ]
     },
+    "Jar of Pickles": {
+        "Type": "Booster + Slow",
+        "Image": "rbxassetid://98177156677827",
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
+        "Offset": -2,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 60%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 1.15,
+                "RangeBoost": 1.7,
+                "Slow": 0.4,
+                "SlowTime": 5
+            },
+            {
+                "Price": 4000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 1.15,
+                "RangeBoost": 1.9,
+                "Slow": 0.4,
+                "SlowTime": 5
+            },
+            {
+                "Price": 5000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 1.15,
+                "RangeBoost": 2,
+                "Slow": 0.4,
+                "SlowTime": 5
+            },
+            {
+                "Price": 6000,
+                "Range": 50,
+                "Damage": 0,
+                "Cooldown": 1.15,
+                "RangeBoost": 2.25,
+                "Slow": 0.4,
+                "SlowTime": 5
+            }
+        ]
+    },
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
