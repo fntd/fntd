@@ -650,7 +650,7 @@
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Secret",
-        "PlacePrice": 3500,
+        "PlacePrice": 3000,
         "Offset": 0.45,
         "Max": 4,
         "hitboxOffset": {
@@ -662,25 +662,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 650,
+                "Damage": 65,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 3500,
+                "Range": 23,
+                "Damage": 78,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 4000,
+                "Range": 26,
+                "Damage": 90,
                 "Cooldown": 0.25
             },
             {
                 "Price": 5000,
-                "Range": 23,
-                "Damage": 780,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 6000,
-                "Range": 26,
-                "Damage": 900,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 7000,
                 "Range": 30,
-                "Damage": 1125,
+                "Damage": 135,
                 "Cooldown": 0.25
             }
         ]
