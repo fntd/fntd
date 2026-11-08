@@ -429,7 +429,7 @@
         "Type": "Continuous Wither",
         "Image": "rbxassetid://18363533024",
         "Rarity": "Nightmare",
-        "PlacePrice": 61000,
+        "PlacePrice": 15000,
         "Max": 2,
         "Passive": {"Name": "Phantasms Wrath", "Description": "Targetted enemies take 50% more damage for 1 second."},
         "hitboxOffset": {
@@ -441,34 +441,34 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 2500,
+                "Damage": 25,
                 "Cooldown": 0.25,
                 "Wither": 1.5,
                 "ShinyWither": 1.5,
                 "WitherTime": 1
             },
             {
-                "Price": 72000,
+                "Price": 7200,
                 "Range": 28,
-                "Damage": 3400,
+                "Damage": 34,
                 "Cooldown": 0.25,
                 "Wither": 1.5,
                 "ShinyWither": 1.5,
                 "WitherTime": 1
             },
             {
-                "Price": 83000,
+                "Price": 8300,
                 "Range": 32,
-                "Damage": 4300,
+                "Damage": 43,
                 "Cooldown": 0.25,
                 "Wither": 1.5,
                 "ShinyWither": 1.5,
                 "WitherTime": 1
             },
             {
-                "Price": 94000,
+                "Price": 9400,
                 "Range": 35,
-                "Damage": 5250,
+                "Damage": 52,
                 "Cooldown": 0.25,
                 "Wither": 1.5,
                 "ShinyWither": 1.5,
