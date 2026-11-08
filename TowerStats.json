@@ -38,6 +38,53 @@
             }
         ]
     },
+        "Algae FredBear": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://18255264349",
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
+        "Max": 2,
+        "Passive": {"Name": "Sludge", "Description": "Attacks slow enemies by 55% for 1 second"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 125,
+                "Cooldown": 2,
+                "Slow": 0.45,
+                "SlowTime": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 18,
+                "Damage": 150,
+                "Cooldown": 1.5,
+                "Slow": 0.45,
+                "SlowTime": 1
+            },
+            {
+                "Price": 7000,
+                "Range": 20,
+                "Damage": 175,
+                "Cooldown": 1.25,
+                "Slow": 0.45,
+                "SlowTime": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 1,
+                "Slow": 0.45,
+                "SlowTime": 1
+            }
+        ]
+    },
       "Buccaneer Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://116374108172820",
