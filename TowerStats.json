@@ -38,6 +38,50 @@
             }
         ]
     },
+       "Galleon Foxy": {
+        "Type": "Splash Slow",
+        "Image": "rbxassetid://118548312954474",
+        "Rarity": "Nightmare",
+        "PlacePrice": 8000,
+        "Offset": 1.5,
+        "Max": 3,
+        "Passive": {"Name": "Pirate's Grasp", "Description": "Enemies hit by attacks are slowed by 60%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 0.4,
+                "Slow": 0.4
+            },
+            {
+                "Price": 12500,
+                "Range": 24,
+                "Damage": 2500,
+                "Cooldown": 0.4,
+                "Slow": 0.4
+            },
+            {
+                "Price": 15000,
+                "Range": 27,
+                "Damage": 3000,
+                "Cooldown": 0.3,
+                "Slow": 0.4
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 0.2,
+                "Slow": 0.4
+            }
+        ]
+    },
        "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
