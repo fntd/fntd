@@ -776,7 +776,7 @@
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Secret",
-        "PlacePrice": 45000,
+        "PlacePrice": 15000,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Main Attack slows enemies by 60%. During charge state enemies are slowed by 70%"},
         "hitboxOffset": {
@@ -789,7 +789,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 6000,
+                "Damage": 60,
                 "Cooldown": 0.25,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
@@ -797,7 +797,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 50000,
+                "Price": 5000,
                 "Range": 25,
                 "Damage": 7000,
                 "Cooldown": 0.25,
@@ -807,9 +807,9 @@
                 "SlowTime": 1
             },
             {
-                "Price": 55000,
+                "Price": 7500,
                 "Range": 28,
-                "Damage": 8000,
+                "Damage": 80,
                 "Cooldown": 0.25,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
@@ -817,9 +817,9 @@
                 "SlowTime": 1
             },
             {
-                "Price": 60000,
+                "Price": 10000,
                 "Range": 30,
-                "Damage": 9000,
+                "Damage": 90,
                 "Cooldown": 0.25,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
@@ -827,9 +827,9 @@
                 "SlowTime": 1
             },
             {
-                "Price": 70000,
+                "Price": 12500,
                 "Range": 35,
-                "Damage": 10000,
+                "Damage": 100,
                 "Cooldown": 0.25,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
