@@ -1015,7 +1015,7 @@
             {
                 "Price": 5000,
                 "Range": 25,
-                "Damage": 7000,
+                "Damage": 70,
                 "Cooldown": 0.25,
                 "ChargeLength": 2.5,
                 "RechargeLength": 2,
@@ -1677,35 +1677,35 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 600,
+                "Damage": 700,
                 "Cooldown": 1
             },
             {
                 "Price": 800,
                 "Range": 22,
-                "Damage": 700,
+                "Damage": 800,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
             },
             {
                 "Price": 1000,
                 "Range": 25,
-                "Damage": 800,
+                "Damage": 900,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
             {
                 "Price": 1200,
                 "Range": 27,
-                "Damage": 900,
+                "Damage": 1000,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
                 "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
             },
             {
-                "Price": 1400,
+                "Price": 2000,
                 "Range": 30,
-                "Damage": 1000,
+                "Damage": 1355,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 20, "Cooldown": 0.1},
                 "Turret2": {"Range": 30, "Damage": 20, "Cooldown": 0.1}
