@@ -6,7 +6,6 @@
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
-         "Passive": {"Name": "Animatronic Engineer", "Description": "Spawns turrets that have 75 -> 200 DPS each"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
